@@ -1,0 +1,12 @@
+*.jpg
+/codes
+/testsubs
+
+.ipynb_checkpoints
+
+*.zip
+*log
+*ipynb
+
+*.pdf
+*.pptx
